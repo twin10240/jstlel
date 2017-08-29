@@ -7,5 +7,8 @@
 </head>
 <body>
 	<h3>요청 파라미터</h3>
+	<h3>----${param.no }----</h3>
+	<h3>${param.no + 10 }</h3>
+	<h3>${param.no == 10 }</h3>
 </body>
 </html>
